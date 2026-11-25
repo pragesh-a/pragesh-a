@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Pragesh Adhikari
 
-<!--
-**pragesh-a/pragesh-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student minoring in Economics Data Analysis at the University of Southern Mississippi.
 
-Here are some ideas to get you started:
+Currently working as a Data & Insights Analyst in a newsroom, where I analyze audience behavior, develop internal tools, and automate operational workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+- Data Analytics & Business Intelligence
+- Data Visualization and Storytelling
+- Workflow Automation
+- Applied Machine Learning
+
+### Technical Skills
+
+- **Languages:** Python, SQL, 
+- **Data Analysis:** pandas, NumPy, Excel
+- **Visualization:** Plotly, Matplotlib, Streamlit
+- **Databases:** MySQL, SQLite
+- **Automation:** Microsoft Power Platform (Power Apps, Power Automate)
+
+### Currently Learning
+
+- Advanced SQL
+- Business Intelligence
+- Statistical Data Analysis
+
+### Connect with me
+
+[LinkedIn](www.linkedin.com/in/pragesh-adhikari)
