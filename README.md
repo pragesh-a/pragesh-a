@@ -1,23 +1,8 @@
-# Hi, I'm Pragesh Adhikari
+# Hi, I'm Pragesh 👋
 
-Computer Science student minoring in Economics Data Analysis at the University of Southern Mississippi.
+Computer Science student and Data & Insights Analyst. I enjoy discovering patterns in data and building solutions to real-world problems.
 
-Currently working as a Data & Insights Analyst in a newsroom, where I analyze audience behavior, develop internal tools, and automate operational workflows.
-
-### Interests
-
-- Data Analytics & Business Intelligence
-- Data Visualization and Storytelling
-- Workflow Automation
-- Applied Machine Learning
-
-### Technical Skills
-
-- **Languages:** Python, SQL, 
-- **Data Analysis:** pandas, NumPy, Excel
-- **Visualization:** Plotly, Matplotlib, Streamlit
-- **Databases:** MySQL, SQLite
-- **Automation:** Microsoft Power Platform (Power Apps, Power Automate)
+**Interests:** Data Analytics · Business Intelligence · Automation
 
 ### Currently Learning
 
@@ -25,6 +10,8 @@ Currently working as a Data & Insights Analyst in a newsroom, where I analyze au
 - Business Intelligence
 - Statistical Data Analysis
 
-### Connect with me
+[Portfolio](prageshadhikari.com) | [LinkedIn](www.linkedin.com/in/pragesh-adhikari)
 
-[LinkedIn](www.linkedin.com/in/pragesh-adhikari)
+
+
+
