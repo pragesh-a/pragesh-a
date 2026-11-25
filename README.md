@@ -10,7 +10,7 @@ Computer Science student and Data & Insights Analyst. I enjoy discovering patter
 - Business Intelligence
 - Statistical Data Analysis
 
-[Portfolio](prageshadhikari.com) | [LinkedIn](www.linkedin.com/in/pragesh-adhikari)
+
 
 
 
